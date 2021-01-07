@@ -1,0 +1,15 @@
+
+server:
+  port: 8081
+  servlet:
+    context-path: /api/v1
+
+spring.jackson.serialization.INDENT_OUTPUT: true
+spring.jackson.default-property-inclusion: NON_NULL
+
+client:
+  id: client
+  secret: password
+
+oauth:
+  rootPath: http://localhost:8080/
