@@ -15,6 +15,9 @@
         <module>SpringMVC</module>
         <module>SpringSecurity</module>
         <module>SpringRest</module>
+        <module>SpringJWT</module>
+        <module>SpringBootMVC</module>
+        <module>SpringBootRest</module>
     </modules>
 
 </project>
